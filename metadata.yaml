@@ -1,0 +1,28 @@
+_repo: On-the-Training-of-Parents_60912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Ernest Hamlin
+    alias: Abbott, E. H. (Ernest Hamlin)
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '51183'
+    url: http://www.gutenberg.org/2009/agents/51183
+description: ''
+gutenberg_issued: '2019-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60912'
+  lccn: 08012208
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Child rearing'
+- GITenberg
+tableOfContents: Spasm and habit -- The will and the way -- By rule of wit -- Peace
+  at a price -- For 'tis their nature to -- The beginning of wisdom.
+title: On the Training of Parents
+url: http://www.gutenberg.org/ebooks/60912
